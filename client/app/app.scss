@@ -15,6 +15,7 @@
 
 // Component styles are injected through grunt
 // injector
+@import 'auth/style/auth.scss';
 @import 'auth/style/login.scss';
 @import 'dashboard/style/dashboard.scss';
 // endinjector
